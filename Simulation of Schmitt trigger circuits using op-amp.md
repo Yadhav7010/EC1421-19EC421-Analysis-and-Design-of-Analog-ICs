@@ -21,13 +21,9 @@ LT-Spice
 6. Click on the run option -->click advanced open -->select Ac analysis-->enter the amplitude time delay stop time value.
 
 7. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
-
-## CIRCUIT DIAGRAM:
-### SCHMITT TRIGGER:
-
-
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+![WhatsApp Image 2025-09-04 at 13 35 39_d5ed7908](https://github.com/user-attachments/assets/a03b6307-bb97-48b5-92e1-4055359366e4)
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.
