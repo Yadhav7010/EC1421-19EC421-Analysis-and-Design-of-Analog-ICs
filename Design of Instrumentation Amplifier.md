@@ -56,7 +56,8 @@ waveforms are plotted in a graph sheet.
 
 ## GRAPH:
 
-<img width="1442" height="1532" alt="image" src="https://github.com/user-attachments/assets/ee0a1fd0-4f8d-4d85-921d-12b2810b925c" />
+<img width="1553" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b893513-9f4b-48e1-85e3-0458a1a9f31b" />
+
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
