@@ -30,11 +30,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
- paste your circuit diagram
-
-## MODEL GRAPH:
-
- Paste your model graph from observation
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e14fd136-5fc9-4907-99c8-fbeb27b8c3ac" />
 
 ## PROCEDURE:
  
@@ -47,16 +43,15 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 7. Plot the graph of the input wave versus output wave for any one practical case.
 
    
-## TABULATION:
+## TABULATION AND CALCULATION:
 
- paste your tabulation 
-
-## CALCULATIONS:
+<img width="896" height="1600" alt="image" src="https://github.com/user-attachments/assets/6ba33e50-f996-4aad-adf2-63e5e212aa2f" />
 
  
 
 ## GRAPH:
 
+<img width="1498" height="1600" alt="image" src="https://github.com/user-attachments/assets/ac36de93-991f-4ea5-b605-19e633b5d8f2" />
 
 
 ## RESULT:
