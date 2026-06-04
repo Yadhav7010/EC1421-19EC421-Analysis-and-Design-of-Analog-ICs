@@ -23,6 +23,8 @@ obtained.
 ## OUTPUT GRAPH:
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f2a8a73e-43e5-4ffc-922b-72fc9d24a588" />
 
+<img width="1600" height="1488" alt="image" src="https://github.com/user-attachments/assets/31d4e651-aaed-473b-9d52-d21ac8309d2d" />
+
 
 
 
